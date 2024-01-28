@@ -26,5 +26,5 @@ else if(seniorCitizenAge>=60){
     console.log(payable);
 }
 else{
-    console.log("You have to pay regular free: 800 taka");
+    console.log("You have to pay regular free: 800 Tk");
 }
